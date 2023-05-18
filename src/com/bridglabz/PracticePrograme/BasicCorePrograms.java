@@ -3,8 +3,12 @@ package com.bridglabz.PracticePrograme;
 import sun.text.normalizer.Utility;
 
 public class BasicCorePrograms {
+<<<<<<< HEAD
 
     public class Flipcoin {
+=======
+    public class BasicCoreProgram {public class Flipcoin {
+>>>>>>> Basic_Core_Programs
 
         public static void main(String[] args) {
 
@@ -34,6 +38,7 @@ public class BasicCorePrograms {
         }
 
     }
+<<<<<<< HEAD
 }
 
 
@@ -74,3 +79,8 @@ public class Main {
             System.out.println(year + " is not a leap year.");
     }
 }
+=======
+
+    }
+}
+>>>>>>> Basic_Core_Programs
