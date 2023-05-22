@@ -3,7 +3,6 @@ package com.bridglabz.PracticePrograme;
 import java.util.Scanner;
 
 public class LogicalProgramDay6 {
-
     public static void main(String[] args) {
         fibonacciSeries();
     }
@@ -20,4 +19,5 @@ public class LogicalProgramDay6 {
             b=count;
         }
     }
+}
 }
